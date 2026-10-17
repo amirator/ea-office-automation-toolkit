@@ -1,0 +1,7 @@
+# SAMPLE / DEMO DATA - fictional people and company (Demo Holding Co.). Not real data.
+name,role,email,timezone,city,work_start,work_end,work_days
+Faisal Al-Harbi,Chief Executive Officer,ceo@demo-holding.example,Asia/Riyadh,Jeddah,08:00,17:00,Sun-Thu
+Noura Al-Qahtani,Chief Financial Officer,cfo@demo-holding.example,Asia/Riyadh,Riyadh,08:00,16:30,Sun-Thu
+Omar Siddiqui,Regional Director UAE,rd.uae@demo-holding.example,Asia/Dubai,Dubai,08:30,17:30,Mon-Fri
+Claire Bennett,Independent Board Advisor,advisor@demo-advisory.example,Europe/London,London,09:00,17:30,Mon-Fri
+Rahul Mehta,Head of PMO,pmo@demo-holding.example,Asia/Kolkata,Bengaluru,09:30,18:30,Mon-Fri

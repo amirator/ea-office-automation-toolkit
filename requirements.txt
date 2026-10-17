@@ -1,0 +1,6 @@
+# Runtime dependencies (exact pins; tested on Python 3.13 in a clean venv)
+openpyxl==3.1.5
+python-docx==1.2.0
+matplotlib==3.11.2
+pillow==13.0.0
+tzdata==2026.5  # IANA time zones on Windows, where the OS does not ship them

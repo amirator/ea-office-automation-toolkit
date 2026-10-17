@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Demo Data//SAMPLE calendar export - fictional//EN
+X-WR-CALNAME:Claire Bennett (SAMPLE / DEMO DATA)
+BEGIN:VEVENT
+UID:sample-001@demo-advisory.example
+DTSTART;TZID=Europe/London:20261102T090000
+DTEND;TZID=Europe/London:20261102T103000
+SUMMARY:Audit committee (other board)
+END:VEVENT
+BEGIN:VEVENT
+UID:sample-002@demo-advisory.example
+DTSTART:20261104T100000Z
+DTEND:20261104T110000Z
+SUMMARY:Client workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:sample-003@demo-advisory.example
+DTSTART;TZID=Europe/London:20261105T130000
+DTEND;TZID=Europe/London:20261105T150000
+SUMMARY:Travel to Edinburgh
+END:VEVENT
+END:VCALENDAR

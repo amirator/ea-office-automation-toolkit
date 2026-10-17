@@ -1,0 +1,23 @@
+# SAMPLE / DEMO DATA - fictional expense lines. Amounts are illustrative only.
+date,trip_id,category,description,amount,currency,units,payment_method,receipt
+2026-09-07,TRP-2026-031,Airfare,Jeddah-Riyadh return (economy),1450,SAR,1,Corporate card,Y
+2026-09-07,TRP-2026-031,Hotel,Business hotel near King Abdullah Financial District,1980,SAR,2,Corporate card,Y
+2026-09-07,TRP-2026-031,Ground Transport,Airport transfer to hotel,95,SAR,1,Personal card,Y
+2026-09-08,TRP-2026-031,Meals,Working dinner with CFO team (2 days),430,SAR,2,Corporate card,Y
+2026-09-08,TRP-2026-031,Ground Transport,Ride-hailing between bank meetings,180,SAR,1,Personal card,N
+2026-09-09,TRP-2026-031,Ground Transport,Hotel to airport,90,SAR,1,Personal card,Y
+2026-09-21,TRP-2026-034,Airfare,Jeddah-Dubai return (economy),2350,SAR,1,Corporate card,Y
+2026-09-21,TRP-2026-034,Hotel,Hotel in Business Bay,2850,AED,3,Corporate card,Y
+2026-09-22,TRP-2026-034,Meals,Meals (3 days),690,AED,3,Corporate card,Y
+2026-09-22,TRP-2026-034,Client Entertainment,Dinner with UAE key account (6 guests),1980,AED,1,Corporate card,Y
+2026-09-23,TRP-2026-034,Ground Transport,Metro and taxis,240,AED,1,Personal card,Y
+2026-09-23,TRP-2026-034,Communication,UAE eSIM data pack,99,AED,1,Personal card,N
+2026-10-04,TRP-2026-038,Airfare,Jeddah-London return (business class; CEO-approved),18900,SAR,1,Corporate card,Y
+2026-10-04,TRP-2026-038,Visa & Government Fees,UK electronic travel authorisation,16,GBP,1,Personal card,Y
+2026-10-04,TRP-2026-038,Hotel,Hotel in the City of London,1040,GBP,4,Corporate card,Y
+2026-10-05,TRP-2026-038,Conference & Registration,Finance leadership conference pass,695,USD,1,Corporate card,Y
+2026-10-05,TRP-2026-038,Meals,Meals (4 days),210,GBP,4,Corporate card,Y
+2026-10-06,TRP-2026-038,Client Entertainment,Lunch with two institutional investors,265,GBP,1,Corporate card,Y
+2026-10-06,TRP-2026-038,Ground Transport,Heathrow Express return,50,GBP,1,Personal card,Y
+2026-10-07,TRP-2026-038,Ground Transport,Black cab to investor office,38,GBP,1,Personal card,N
+2026-10-07,TRP-2026-038,Other,Printing of board papers at hotel business centre,42,GBP,1,Personal card,Y

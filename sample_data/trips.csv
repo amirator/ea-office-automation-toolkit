@@ -1,0 +1,5 @@
+# SAMPLE / DEMO DATA - fictional business trips for Demo Holding Co.
+trip_id,traveller,purpose,destination,start_date,end_date,budget_sar
+TRP-2026-031,Faisal Al-Harbi,Quarterly board meeting and bank visits,Riyadh,2026-09-07,2026-09-09,9000
+TRP-2026-034,Faisal Al-Harbi,UAE regional office performance review,Dubai,2026-09-21,2026-09-24,14000
+TRP-2026-038,Noura Al-Qahtani,Investor relations meetings and finance conference,London,2026-10-04,2026-10-08,28000

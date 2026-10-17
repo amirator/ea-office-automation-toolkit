@@ -1,0 +1,50 @@
+# SAMPLE / DEMO DATA - fictional KPIs for Demo Holding Co. Not real company results.
+kpi,function,unit,direction,amber_tolerance_pct,period,actual,target
+Board actions closed on time,Executive Office,%,higher,5,2026-04,78,90
+Board actions closed on time,Executive Office,%,higher,5,2026-05,82,90
+Board actions closed on time,Executive Office,%,higher,5,2026-06,85,90
+Board actions closed on time,Executive Office,%,higher,5,2026-07,88,90
+Board actions closed on time,Executive Office,%,higher,5,2026-08,91,90
+Board actions closed on time,Executive Office,%,higher,5,2026-09,93,90
+Meeting requests scheduled within 48h,Executive Office,%,higher,5,2026-04,90,95
+Meeting requests scheduled within 48h,Executive Office,%,higher,5,2026-05,92,95
+Meeting requests scheduled within 48h,Executive Office,%,higher,5,2026-06,94,95
+Meeting requests scheduled within 48h,Executive Office,%,higher,5,2026-07,93,95
+Meeting requests scheduled within 48h,Executive Office,%,higher,5,2026-08,96,95
+Meeting requests scheduled within 48h,Executive Office,%,higher,5,2026-09,97,95
+Travel spend vs budget,Finance,%,lower,5,2026-04,96,100
+Travel spend vs budget,Finance,%,lower,5,2026-05,104,100
+Travel spend vs budget,Finance,%,lower,5,2026-06,99,100
+Travel spend vs budget,Finance,%,lower,5,2026-07,108,100
+Travel spend vs budget,Finance,%,lower,5,2026-08,103,100
+Travel spend vs budget,Finance,%,lower,5,2026-09,112,100
+IT tickets resolved within SLA,Office IT,%,higher,5,2026-04,88,92
+IT tickets resolved within SLA,Office IT,%,higher,5,2026-05,90,92
+IT tickets resolved within SLA,Office IT,%,higher,5,2026-06,87,92
+IT tickets resolved within SLA,Office IT,%,higher,5,2026-07,91,92
+IT tickets resolved within SLA,Office IT,%,higher,5,2026-08,89,92
+IT tickets resolved within SLA,Office IT,%,higher,5,2026-09,86,92
+Vendor invoices paid on time,Finance,%,higher,5,2026-04,89,95
+Vendor invoices paid on time,Finance,%,higher,5,2026-05,91,95
+Vendor invoices paid on time,Finance,%,higher,5,2026-06,93,95
+Vendor invoices paid on time,Finance,%,higher,5,2026-07,94,95
+Vendor invoices paid on time,Finance,%,higher,5,2026-08,92,95
+Vendor invoices paid on time,Finance,%,higher,5,2026-09,95,95
+Iqama and visa renewals before expiry,HR & Government Relations,%,higher,2,2026-04,100,100
+Iqama and visa renewals before expiry,HR & Government Relations,%,higher,2,2026-05,100,100
+Iqama and visa renewals before expiry,HR & Government Relations,%,higher,2,2026-06,98,100
+Iqama and visa renewals before expiry,HR & Government Relations,%,higher,2,2026-07,100,100
+Iqama and visa renewals before expiry,HR & Government Relations,%,higher,2,2026-08,100,100
+Iqama and visa renewals before expiry,HR & Government Relations,%,higher,2,2026-09,100,100
+Avg. executive correspondence turnaround,Executive Office,days,lower,20,2026-04,3.1,2.0
+Avg. executive correspondence turnaround,Executive Office,days,lower,20,2026-05,2.8,2.0
+Avg. executive correspondence turnaround,Executive Office,days,lower,20,2026-06,2.6,2.0
+Avg. executive correspondence turnaround,Executive Office,days,lower,20,2026-07,2.4,2.0
+Avg. executive correspondence turnaround,Executive Office,days,lower,20,2026-08,2.3,2.0
+Avg. executive correspondence turnaround,Executive Office,days,lower,20,2026-09,2.2,2.0
+Office running cost per employee,Operations,SAR,lower,5,2026-04,1520,1450
+Office running cost per employee,Operations,SAR,lower,5,2026-05,1495,1450
+Office running cost per employee,Operations,SAR,lower,5,2026-06,1480,1450
+Office running cost per employee,Operations,SAR,lower,5,2026-07,1470,1450
+Office running cost per employee,Operations,SAR,lower,5,2026-08,1440,1450
+Office running cost per employee,Operations,SAR,lower,5,2026-09,1455,1450

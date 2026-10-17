@@ -1,0 +1,11 @@
+# SAMPLE / DEMO DATA - fictional calendar blocks. Times are ISO 8601 with UTC offset.
+attendee,start,end,title
+Faisal Al-Harbi,2026-11-02T12:30:00+03:00,2026-11-02T14:00:00+03:00,Site visit - Jeddah project office
+Faisal Al-Harbi,2026-11-03T13:30:00+03:00,2026-11-03T14:30:00+03:00,Lunch with key supplier
+Faisal Al-Harbi,2026-11-04T09:00:00+03:00,2026-11-04T11:00:00+03:00,Management committee
+Noura Al-Qahtani,2026-11-02T14:00:00+03:00,2026-11-02T16:00:00+03:00,Month-end close review
+Noura Al-Qahtani,2026-11-04T10:00:00+03:00,2026-11-04T12:00:00+03:00,Bank relationship meeting
+Omar Siddiqui,2026-11-03T15:00:00+04:00,2026-11-03T17:00:00+04:00,UAE leadership huddle
+Omar Siddiqui,2026-11-05T15:30:00+04:00,2026-11-05T17:30:00+04:00,Landlord negotiation
+Rahul Mehta,2026-11-03T16:30:00+05:30,2026-11-03T18:00:00+05:30,Programme status review
+Rahul Mehta,2026-11-05T17:00:00+05:30,2026-11-05T18:30:00+05:30,Vendor demo

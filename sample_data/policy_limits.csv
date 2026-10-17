@@ -1,0 +1,11 @@
+# SAMPLE / DEMO DATA - illustrative travel policy, not a real company policy.
+category,limit_sar,per,notes
+Airfare,7500,ticket,Economy for flights under 6 hours; business class needs CEO approval
+Hotel,1100,night,Proposed cap; includes taxes and breakfast
+Meals,250,day,Per traveller per day
+Ground Transport,400,item,Taxi / ride-hailing / airport transfer
+Client Entertainment,1500,event,Pre-approval required; list guests in description
+Conference & Registration,3000,item,Attach agenda
+Visa & Government Fees,1000,item,
+Communication,200,item,Roaming / eSIM
+Other,500,item,Explain in description

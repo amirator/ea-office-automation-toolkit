@@ -1,0 +1,7 @@
+# SAMPLE / DEMO DATA - fixed illustrative rates to SAR, NOT live market rates. Replace with your finance team's month-end rates.
+currency,sar_per_unit
+SAR,1.0000
+USD,3.7500
+AED,1.0211
+GBP,4.9800
+EUR,4.3600

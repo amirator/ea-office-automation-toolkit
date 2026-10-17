@@ -1,0 +1,16 @@
+{
+  "_notice": "SAMPLE / DEMO DATA - fictional meeting for Demo Holding Co. Not real company information.",
+  "title": "Q4 Operations Steering Committee",
+  "organiser": "Executive Office, Demo Holding Co.",
+  "chair": "Faisal Al-Harbi",
+  "location": "Board Room, Level 3, Jeddah office, with Microsoft Teams for remote attendees",
+  "purpose": "Review Q3 operating performance, approve the revised travel and expense policy, and agree a direction on the UAE office lease before the November budget cycle.",
+  "items": [
+    {"topic": "Opening and approval of previous minutes", "owner": "Faisal Al-Harbi", "minutes": 5, "type": "Decision"},
+    {"topic": "Action log review: open items from the September meeting", "owner": "Executive Office", "minutes": 10, "type": "Information"},
+    {"topic": "Q3 operations KPI pack: exceptions and recovery plans", "owner": "Rahul Mehta", "minutes": 15, "type": "Discussion", "pre_read": "Q3 KPI pack (one page)"},
+    {"topic": "Travel and expense policy: proposed hotel cap of SAR 1,100 per night", "owner": "Noura Al-Qahtani", "minutes": 10, "type": "Decision", "pre_read": "Policy change memo"},
+    {"topic": "UAE office lease: renew, relocate or downsize", "owner": "Omar Siddiqui", "minutes": 10, "type": "Decision", "pre_read": "Options paper with cost comparison"},
+    {"topic": "Any other business and next meeting date", "owner": "Faisal Al-Harbi", "minutes": 5, "type": "Information"}
+  ]
+}
