@@ -203,6 +203,6 @@ end-to-end `demo` run. A GitHub Actions workflow is set up to run them on Ubuntu
 
 ## Author
 
-Mohammad Amir Khan, Executive Assistant / Office Manager, Jeddah · [github.com/amirator](https://github.com/amirator) · [linkedin.com/in/amirator](https://linkedin.com/in/amirator)
+Mohammad Amir Khan, Executive Assistant / Office Manager, Jeddah · [github.com/amirator](https://github.com/amirator) · [linkedin.com/in/ameer-k-a31363235](https://www.linkedin.com/in/ameer-k-a31363235/)
 
 MIT licensed.
